@@ -7,15 +7,14 @@
   </a>
 </div>
 
+<img align="right" alt="" height="190px" src="Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpeg">
+
+
 <br>💜 Apaixonada por tecnologia 
 <br>👩‍💻 Estudante de Analise e Desenvolvimento de Sistemas
 <br>🤩 Designer Gráfica
 
-
-
-<img align="right" alt="" height="190px" src="Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpeg">
-
-
+#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +26,7 @@
 
 </div>
 
-##
+#
   
   
  
