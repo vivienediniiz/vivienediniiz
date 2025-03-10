@@ -7,7 +7,6 @@
   </a>
 </div>
 
-<img align="right" alt="" height="190px" src="Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpeg">
 
 
 <br>💜 Apaixonada por tecnologia 
@@ -17,7 +16,9 @@
 
 
 #
-  
+
+  <img align="right" alt="" height="190px" src="Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpeg">
+
   <h3 align="left">Connect with me!</h3>
  
 <div> 
