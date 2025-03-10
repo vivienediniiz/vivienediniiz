@@ -7,10 +7,9 @@
 
  <img align="right" alt="" height="250px" src="Viviene diniz.gif">
 
+💜 Apaixonada por tecnologia
 
 #
-
- 
 
   <h3 align="left">Connect with me!</h3>
  
