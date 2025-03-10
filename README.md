@@ -12,7 +12,7 @@
 
 #
 
-<p align="center">💜 Apaixonada por tecnologia -Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
+<p align="center"font=Fira+Code>💜 Apaixonada por tecnologia -Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 
