@@ -3,8 +3,6 @@
  <img align="right" alt="" height="190px" src="Viviene diniz.gif">
 <br>
 
-#
-
 
 <br>💜 Apaixonada por tecnologia 
 <br>👩‍💻 Estudante de Analise e Desenvolvimento de Sistemas
