@@ -5,9 +5,10 @@
   </a>
 </div>
 
-##
- <img align="right" alt="" height="280px" src="Viviene diniz.gif">
 
+ <img align="right" alt="" height="280px" src="Viviene diniz.gif">
+ 
+#
 
 
 <p align="center">💜 Apaixonada por tecnologia -Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
