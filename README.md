@@ -1,6 +1,4 @@
-<br>💜 Apaixonada por tecnologia 
-<br>👩‍💻 Estudante de Analise e Desenvolvimento de Sistemas
-<br>🤩 Designer Gráfica
+
 
 <br>
 
