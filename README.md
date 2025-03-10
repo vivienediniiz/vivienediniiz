@@ -8,14 +8,14 @@
 
  <img align="right" alt="" height="280px" src="Viviene diniz.gif">
  
-#
+
 
 
 <p align="center">💜 Apaixonada por tecnologia -Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 </div>
-#
+
 
   <h3 align="left">Connect with me!</h3>
  
