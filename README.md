@@ -1,12 +1,16 @@
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
  <img align="right" alt="" height="190px" src="Viviene diniz.gif">
 
 
 #
 
-  <img align="right" alt="" height="190px" src="Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpeg">
+ 
 
   <h3 align="left">Connect with me!</h3>
  
