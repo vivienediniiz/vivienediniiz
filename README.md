@@ -5,7 +5,7 @@
   </a>
 </div>
 
- <img align="right" alt="" height="300px" src="Viviene diniz.gif">
+ <img align="right" alt="" height="280px" src="Viviene diniz.gif">
 
 💜 Apaixonada por tecnologia
 
